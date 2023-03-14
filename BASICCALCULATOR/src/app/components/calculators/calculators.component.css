@@ -1,0 +1,19 @@
+form {
+    position: absolute;
+    left: 50%;
+    border: 1px solid red;
+    padding: 5px 20px;
+    top: 5%;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.calculator input{
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.calculator input{
+    border-color: brown;
+    
+}

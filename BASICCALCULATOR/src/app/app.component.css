@@ -1,0 +1,45 @@
+
+
+.container input{
+
+    background-color: black;
+    color: rgb(162, 6, 92);
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px rgb(251, 250, 250);
+    margin: 2px;
+    font-size: xx-large;
+}
+
+.container input:hover{
+
+    color:rgb(239, 112, 112);
+    font-weight: bold;
+}
+
+.full{
+    border: 10px solid rgb(190, 0, 82);
+    margin: 2px;
+    padding: 12px;
+    border-radius: 20px;
+    background-image:url(../assets/img/sailor-moon.jpg);
+}
+
+input[type="text"]{
+    color: white;
+    text-align:right;
+}
+
+.scroll{
+    height: 250px;
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+.card{
+    margin-top: 22px;
+    background-color: black;
+    border: 1px rgb(251, 251, 250);
+}
+
